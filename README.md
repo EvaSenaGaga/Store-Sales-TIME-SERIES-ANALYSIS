@@ -17,4 +17,12 @@ Jupiter Notebook
 
 Python
 
+Matplotlib
+
+Pandas
+
+Scipy
+
+Sklearn
+
 
